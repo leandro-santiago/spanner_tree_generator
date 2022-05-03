@@ -1,6 +1,6 @@
-#include "codigo/graph.hpp"
-#include "codigo/genGraph.hpp"
-#include "codigo/frontier.hpp"
+#include "code/graph.hpp"
+#include "code/genGraph.hpp"
+#include "code/frontier.hpp"
 #include <iostream>
 #include <cstdlib>
 

@@ -1,7 +1,7 @@
-#include "codigo/graph.hpp"
-#include "codigo/frontier.hpp"
-#include "codigo/opBasic.hpp"
-//#include "codigo/strech.hpp"
+#include "code/graph.hpp"
+#include "code/frontier.hpp"
+#include "code/opBasic.hpp"
+//#include "code/strech.hpp"
 #include <iostream>
 #include <ctime>
 #include <sys/time.h>
